@@ -1,0 +1,17 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  width: 100%;
+  transition: all .5s;
+}
+#World{
+  width: 3950px;
+  height: 2450px;
+  border: 1px solid red;
+}
+canvas{
+  border: none;
+  margin: 0px;
+  padding: 0px;
+}
